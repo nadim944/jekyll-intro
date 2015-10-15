@@ -1,0 +1,11 @@
+- name: Tyrannasaurus
+  diet: Meat
+  size: Big
+  
+- name: Stagasaurus
+  diet: Plants
+  size: Medium
+  
+- name: Velociraptor
+  diet: Meat
+  size: Tiny
